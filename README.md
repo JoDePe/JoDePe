@@ -1,10 +1,13 @@
 # Hey! I'm Jorge
 Thank you for visiting my Github page! It is currently a work in progress.
 
-I'm a AMEL/ASEL Commercial Rated Instrument Pilot with a Bachelors in Technical Communications from Arizona State University. When I'm not flying or going over flight manuals, I can be found working on one of these projects below ⬇️
+I am a AMEL/ASEL Commercial Rated Instrument Pilot and an Undergrad from Arizona State University. I created this Github account to learn more about DITA, XML, and other tools used in the creation, management, and publication of documentation. I can be found working on one of the several projects pilot below ⬇️
 
 ## Projects
 - Creating a Github repository of DITA based documentation
 - Training for a CFI/CFII License
-- Discovering the secrets of immortality
+- Achieving immortality
 - Learning Python
+
+## Contact
+If you want to get in contact with me, I can be found at my [LinkedIn](https://www.linkedin.com/in/jodepe/)
