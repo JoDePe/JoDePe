@@ -5,7 +5,7 @@ I am an AMEL/ASEL Commercial Rated Instrument Pilot and an undergrad from Arizon
 
 ## Projects
 - **DITA Repository**: Learning DITA through mock projects and open-source contributions. 
-- **CFI/CFII License:** Working toward becoming a Certified Flight Instructor to build hours and deepen my knowledge of aviation. 
+- **CFI/CFII License:** Working toward becoming a Certified Flight Instructor to build hours and further my knowledge of aviation. 
 - **Achieving immortality**: I've almost figured this one out.
 - **Learning Python:** Very interested in learning automated process when it comes to documentation as well as other application Python may have. 
 
