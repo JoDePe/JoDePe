@@ -1,7 +1,7 @@
 # Hey! I'm Jorge
 Thank you for visiting my Github page! It is currently a work in progress.
 
-I am a Certificated Floght Instructor, an AMEL/ASEL Commercial Rated Instrument Pilot, and an undergrad from Arizona State University. I created this Github account to learn more about DITA, XML, and other tools used in the creation, management, and publication of documentation. I can be found working on one of the several projects pilot below ⬇️
+I am a Certificated Flight Instructor, an AMEL/ASEL Commercial Rated Instrument Pilot, and an undergrad from Arizona State University. I created this Github account to learn more about DITA, XML, and other tools used in the creation, management, and publication of documentation. I can be found working on one of the several projects pilot below ⬇️
 
 ## Projects
 - **DITA Repository**: Learning DITA through mock projects and open-source contributions.
